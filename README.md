@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![Makefile](https://github.com/Terzia/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/Terzia/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
